@@ -1,0 +1,11 @@
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.exe
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.deps.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.dev.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.pdb
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csprojAssemblyReference.cache
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfoInputs.cache
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfo.cs
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.dll
+E:\.Net Workspace\Data Stuctures\Data-Structures\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.pdb
