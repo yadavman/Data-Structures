@@ -61,6 +61,7 @@ namespace Data_Structures_CSharp
         /// <returns>value of specified type</returns>
         public T Get(int index)
         {
+            if (index >= _len) throw new IndexOutOfRangeException();
             return _arr[index];
         }
 
@@ -71,6 +72,7 @@ namespace Data_Structures_CSharp
         /// <param name="elem"></param>
         public void Set(int index, T elem)
         {
+            if (index >= _len) throw new IndexOutOfRangeException();
             _arr[index] = elem;
         }
         /// <summary>
