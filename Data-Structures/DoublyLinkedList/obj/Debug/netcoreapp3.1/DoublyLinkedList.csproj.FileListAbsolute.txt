@@ -1,0 +1,11 @@
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.exe
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.deps.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.dev.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.dll
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfoInputs.cache
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfo.cs
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.dll
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+E:\.Net Workspace\Data Stuctures\Data-Structures\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csprojAssemblyReference.cache

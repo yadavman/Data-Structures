@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Data-Structures/Data-Structures-CSharp/bin/Debug/netcoreapp3.1
+/Data-Structures/.vs/Data-Structures/v16/Server/sqlite3
+/Data-Structures/.vs/Data-Structures/v16
+/Data-Structures/.vs/Data-Structures-CSharp/v16
+/Data-Structures/.vs/Data-Structures/DesignTimeBuild

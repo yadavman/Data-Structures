@@ -1,0 +1,11 @@
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\bin\Debug\netcoreapp3.1\Data-Structures-CSharp.exe
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\bin\Debug\netcoreapp3.1\Data-Structures-CSharp.deps.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\bin\Debug\netcoreapp3.1\Data-Structures-CSharp.runtimeconfig.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\bin\Debug\netcoreapp3.1\Data-Structures-CSharp.runtimeconfig.dev.json
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\bin\Debug\netcoreapp3.1\Data-Structures-CSharp.dll
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\bin\Debug\netcoreapp3.1\Data-Structures-CSharp.pdb
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\obj\Debug\netcoreapp3.1\Data-Structures-CSharp.csprojAssemblyReference.cache
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\obj\Debug\netcoreapp3.1\Data-Structures-CSharp.AssemblyInfoInputs.cache
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\obj\Debug\netcoreapp3.1\Data-Structures-CSharp.AssemblyInfo.cs
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\obj\Debug\netcoreapp3.1\Data-Structures-CSharp.dll
+E:\.Net Workspace\Data Stuctures\Data-Structures\Data-Structures-CSharp\obj\Debug\netcoreapp3.1\Data-Structures-CSharp.pdb
