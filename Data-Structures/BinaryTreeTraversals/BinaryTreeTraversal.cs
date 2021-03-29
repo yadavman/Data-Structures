@@ -92,11 +92,5 @@ namespace BinaryTreeTraversals
         }
     }
 
-    public enum TreeTravesralMode
-    {
-        PreOrder,
-        PostOrder,
-        InOrder,
-        LevelOrder
-    }
+    
 }
