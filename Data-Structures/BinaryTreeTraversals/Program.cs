@@ -58,7 +58,7 @@ namespace BinaryTreeTraversals
             Print(binaryTreeTraversal_Iterative.TraverseTree(TreeTravesralMode.PostOrder));
             Console.WriteLine();
             Console.WriteLine("InOrder Traversal Iterative!");
-            binaryTreeTraversal.TraverseTree(TreeTravesralMode.InOrder);
+            Print(binaryTreeTraversal_Iterative.TraverseTree(TreeTravesralMode.InOrder));
             Console.WriteLine();
             //Console.WriteLine("LevelOrder Traversal Iterative!");
             //binaryTreeTraversal.TraverseTree(TreeTravesralMode.LevelOrder);
