@@ -46,9 +46,6 @@ namespace BinaryTreeTraversals
                     stack.Push(curNode.Right);
                 if (curNode.Left != null)
                     stack.Push(curNode.Left);
-
-                
-
             }
 
         }
@@ -87,7 +84,7 @@ namespace BinaryTreeTraversals
                 throw new ArgumentNullException("node value cannot be null");
 
             Stack<Node<T>> stack = new Stack<Node<T>>();
-
+            stack.Push(trav);
             while (stack.Count > 0)
             {
                 //go the left most
@@ -98,7 +95,7 @@ namespace BinaryTreeTraversals
                 }
                 Node<T> curNode = stack.Pop();
 
-                if (trav.Right != null)
+                if (curNode.Right != null)
                 {
                     stack.Push(curNode.Right);
                     trav = curNode.Right;
