@@ -23,7 +23,7 @@ namespace BinaryTreeTraversals
                 case TreeTravesralMode.InOrder:
                     return InOrderTraversal(root);
                 case TreeTravesralMode.LevelOrder:
-                    //return LevelOrderTraversal(root);
+                    return LevelOrderTraversal(root);
                 default:
                     throw new InvalidOperationException("Invalid Mode for Tree Traversal");
             }
@@ -108,23 +108,24 @@ namespace BinaryTreeTraversals
 
         }
 
-        //private IEnumerable<Node<T>> LevelOrderTraversal(Node<T> node)
-        //{
-        //    //Queue Based
-        //    Queue<Node<T>> queue = new Queue<Node<T>>();
-        //    queue.Enqueue(node);
+        private IEnumerable<Node<T>> LevelOrderTraversal(Node<T> node)
+        {
+            //Queue Based
+            Queue<Node<T>> queue = new Queue<Node<T>>();
+            queue.Enqueue(node);
 
-        //    while (queue.Count > 0)
-        //    {
-        //        Node<T> currNode = queue.Dequeue();
+            while (queue.Count > 0)
+            {
+                Node<T> currNode = queue.Dequeue();
 
-        //        Console.Write(currNode.Data + " ");
-        //        if (currNode.Left != null)
-        //            queue.Enqueue(currNode.Left);
-        //        if (currNode.Right != null)
-        //            queue.Enqueue(currNode.Right);
+                //Console.Write(currNode.Data + " ");
+                yield return currNode;
+                if (currNode.Left != null)
+                    queue.Enqueue(currNode.Left);
+                if (currNode.Right != null)
+                    queue.Enqueue(currNode.Right);
 
-        //    }
-        //}
+            }
+        }
     }
 }
